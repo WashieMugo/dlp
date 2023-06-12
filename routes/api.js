@@ -52,3 +52,6 @@ router.route("/product/search").get(catchErrors(productController.search));
 router.route("/product/list").get(catchErrors(productController.list));
 
 module.exports = router;
+
+
+//-------------- GOOGLE DLP API -------------------// for all Requersts from server
