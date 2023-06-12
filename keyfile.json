@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "clouddlp-389012",
+  "private_key_id": "bb23e9018f997302063041760043fcc63aa0c1b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDlXyZgIpvaup6a\nGqDRnserHgzTngCGnkNpe4xbXdvbVAfXSJhkGj/+C9wMKQ1fABPSxKFWg0jU6NoP\n7yCT+UDO/2oxbZ7gQ1ugK06Kw1kFRiMLSFjAAYhJ6GduljuioT0rKaZxHADyIcNJ\n6Gv1m2ohH4xI2rKVxDZfXj8ORFN6oGna0ojfWqNjJXGepdPSFYnIyKa7eyXWcGAV\nDesdZqaxClP9cP65awHPbvPZlvoidz/ykYwXsSZnAvuw6DYkrKRIkRSkboafUm2K\n0FbRoxzFAdm1M3I3eiddjr0X0KwNDni8HOwuJPN109F8mUhqHZFFZpQfhHEuYFdF\nqkkPbK6/AgMBAAECggEABjmsdRs2ya2ti3KdSDMuTiLHXqCuwh0nhBasevgPB2K+\nUyozqcUAnjHOxz9tannxD8rysy/4tH/BYRPnZypyhyKSFbLGq9M/Cqn5F+NVH1Wq\nIGWNRoVfjgDSVdWa21GKai3po4rUB75Ts48and2+ZhUsZtLwtZniIZ3syZ8N+PdI\nuTw8JTc4it3ZdO9PupQpAjULRbY1D5hziwk/+VHKcJRvHSHbrHh0JyCISnftFOZe\nYpEwZ2TdoxB4npRppBLIHUW7+ec/GULUPoh+ccntAmOXrtxZx4bS6GR9KhpyUc6t\ndyCkAv6j2vX1khjERudCxGOYtWt3R45bo/p327QYqQKBgQD84jGZL3AxUbN0DyYa\ndkWR7fqk2ouOwcScOseZYu2dgD1TM+Jaru/qsXSy522EG7ednFlufKkAS+58o3ia\n7KbprZix88MFSew+zQTrvQ1ejQhuGWOBbvjrynXv++wRdkvbrrC23s9n3KxbTmbA\njvwSAX6gtkwOUSI6yYXh5uncEwKBgQDoMset6R/Vy4YiamZcDMXZnm5kqpY+90Hb\np0CkoQg2o0zkmXhRwFIq0BPfrHNrqxYXcEomxiEQV5hLS0xVbYrfdnSzQfCMIxkH\nNoCfPjqA7F5czSxkROmTr83W30uSeNhOifvtZnlNHEEwTreBBAKZ0XmhED/+6n6k\nq8k4PBygJQKBgGShIfmCLhQCHfX+HTyEefSzDX1SVhyNsM42ebzo6AM3x693Qwiw\n+lmbGgQjIapjWTLHx7K2uo2aqaFBb7m+mED+yndtt9o/61mmPeINDeflGUiuo7Ea\n1sUFgN7pkav1NgSKRFnQ2hnLb266CRtxCo+jtp7/S86arJNWJAeb2s2vAoGAEz7i\nPg/si5Pq8j9PbKHCZF81VzKscVudIc+jFAIk5CJ05R2zU1NVfCby/r8UcgAkPJ0a\nCEyzwN8ByHvdP9dsg0kWMyVsArGGCYsC7jACOV1eFOMMouLzWUJhFUY8xU8u3pOh\nRfQQacvFu3NK0m66qHUsV6U5KK/W/18dtoOE++ECgYEA0wqqs7b6RnN232BsZzQQ\ntgDzquwz5bxX4tGc9cugtW59QGnW+fTundSAEY8u9j8oCdmo6O7Y2ZAqvzeGAdaS\n70Pbe321476cd4uZAsY+M8X+huwMStf5SCTOl4aEjmvpBqCuCC8J+TZ7nYBw+AFR\nao9WBmSAbMC/pmXKyFEsDG0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dlpsearch@clouddlp-389012.iam.gserviceaccount.com",
+  "client_id": "109542359054202038383",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dlpsearch%40clouddlp-389012.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
