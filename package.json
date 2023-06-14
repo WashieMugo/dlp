@@ -25,6 +25,7 @@
     "mongoose-autopopulate": "^0.14.0"
   },
   "devDependencies": {
+    "eslint-plugin-react-hooks": "^4.6.0",
     "nodemon": "^1.19.2"
   },
   "description": "Just you wait folks!",
